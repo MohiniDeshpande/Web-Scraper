@@ -14,5 +14,5 @@ A **demo** Python web scraper that extracts job listings for Data Science roles 
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/reed-job-scraper.git
-cd reed-job-scraper
+git clone https://github.com/mohinideshpande/Web-Scraper.git
+cd Web-Scraper
